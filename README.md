@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of peopleinside/fla-polling.** Not for installation: use [Packagist](https://packagist.org/packages/peopleinside/fla-polling) or the [upstream repository](https://github.com/PeopleInside/fla-polling).
 
-**0** versions archived · Latest: [`1.2.5`](https://github.com/flarchive/peopleinside-fla-polling/tree/archive/v1.2.5) · License: `MIT` · Flarum: `^2.0`
+**20** versions archived · Latest: [`1.2.5`](https://github.com/flarchive/peopleinside-fla-polling/tree/archive/v1.2.5) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0` | 2026-06-13 | `^2.0` | [Browse](https://github.com/flarchive/peopleinside-fla-polling/tree/archive/v1.0) |
+| `1.0.1` | 2026-06-13 | `^2.0` | [Browse](https://github.com/flarchive/peopleinside-fla-polling/tree/archive/v1.0.1) |
+| `1.0.2` | 2026-06-13 | `^2.0` | [Browse](https://github.com/flarchive/peopleinside-fla-polling/tree/archive/v1.0.2) |
+| `1.0.3` | 2026-06-13 | `^2.0` | [Browse](https://github.com/flarchive/peopleinside-fla-polling/tree/archive/v1.0.3) |
+| `1.1` | 2026-06-13 | `^2.0` | [Browse](https://github.com/flarchive/peopleinside-fla-polling/tree/archive/v1.1) |
+| `1.1.1` | 2026-06-13 | `^2.0` | [Browse](https://github.com/flarchive/peopleinside-fla-polling/tree/archive/v1.1.1) |
+| `1.1.2` | 2026-06-13 | `^2.0` | [Browse](https://github.com/flarchive/peopleinside-fla-polling/tree/archive/v1.1.2) |
+| `1.1.3` | 2026-06-13 | `^2.0` | [Browse](https://github.com/flarchive/peopleinside-fla-polling/tree/archive/v1.1.3) |
+| `1.1.4` | 2026-06-13 | `^2.0` | [Browse](https://github.com/flarchive/peopleinside-fla-polling/tree/archive/v1.1.4) |
+| `1.1.5` | 2026-06-13 | `^2.0` | [Browse](https://github.com/flarchive/peopleinside-fla-polling/tree/archive/v1.1.5) |
+
+[View all 20 versions](https://github.com/flarchive/peopleinside-fla-polling/tags)
 
 Catalog entry: [packages/peopleinside-fla-polling.json](https://github.com/flarchive/archive-index/blob/main/packages/peopleinside-fla-polling.json)
 
